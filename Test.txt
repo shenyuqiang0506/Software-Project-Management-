@@ -1,2 +1,6 @@
 Initial content
+<<<<<<< HEAD
 本地测试冲突
+=======
+web测试冲突
+>>>>>>> fc0bfc466f0cb07b38e50d8c691716716816fedd
